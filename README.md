@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+![MasterHead](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waterfall.gif)
 <h1 align="center">Hi, I'm Jiten Rai</h1>
 <h3 align="center">An Enthusiast in Python Programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e3/ac/84/e3ac8498699647de3c6f3bfc2a786808.jpg">
