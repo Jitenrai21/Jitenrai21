@@ -1,7 +1,7 @@
-![MasterHead](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waterfall.gif)
+![MasterHead](https://i.pinimg.com/originals/e3/ac/84/e3ac8498699647de3c6f3bfc2a786808.jpg)
 <h1 align="center">Hi, I'm Jiten Rai</h1>
 <h3 align="center">An Enthusiast in Python Programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e3/ac/84/e3ac8498699647de3c6f3bfc2a786808.jpg">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966">
 
 - 🌱 I’m currently learning **Python Machine Learning**
 
