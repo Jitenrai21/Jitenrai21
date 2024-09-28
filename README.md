@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpapercave.com/wp/wp2757834.gif)
 <h1 align="center">Hi, I'm Jiten Rai</h1>
 <h3 align="center">An Enthusiast in Python Programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/5e/69/ca5e69e40bb1b46ea70736e1467cf4f3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bb/06/2e/bb062ed983394382448459a1996ce82e.gif">
 
 - 🌱 I’m currently learning **Python Machine Learning**
 
