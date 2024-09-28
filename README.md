@@ -1,7 +1,7 @@
-![MasterHead](https://wallpapercave.com/wp/wp2757834.gif)
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi, I'm Jiten Rai</h1>
 <h3 align="center">An Enthusiast in Python Programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bb/06/2e/bb062ed983394382448459a1996ce82e.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🌱 I’m currently learning **Python Machine Learning**
 
