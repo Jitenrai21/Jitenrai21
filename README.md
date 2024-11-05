@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-cover-desktop-wallpaper.gif)
+![MasterHead](https://i0.wp.com/picjumbo.com/wp-content/uploads/synthwave-cyberwave-vaporwave-retrowave-wallpaper-free-photo.jpg?w=2210&quality=70)
 <h1 align="center">Hi, I'm Jiten Rai</h1>
 <h3 align="center">An Enthusiast in Python Programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
