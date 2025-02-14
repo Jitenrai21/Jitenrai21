@@ -1,15 +1,15 @@
 ![MasterHead](https://camo.githubusercontent.com/6f87276238fc4d6742e582f1084db307e09aec5e9f223bea9935204fdfe3e5d7/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313735303139323538303737373332363336302f333434333938313339313833393146333344354235413638314344314532463830333530353643322f)
-<h1 align="center">Hi, I'm Jiten Rai</h1>
-<h3 align="center">An Enthusiast in Python Programming.</h3>
+<h1 align="center">Hi, Annyeoung! I'm Jiten Rai.</h1>
+<h3 align="center">An Enthusiast in the world of Machine Learning and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🌱 I’m currently learning **Python Machine Learning**
+- 🌱 I’m currently learning **Machine Learning (Into the World of AI)**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **raijiten96@gmail.com**
 
-- 📄 Know about my experiences [https://jitenrai.com.np/](https://jitenrai.com.np/)
+- 📄 Know about my experiences [My LinkedIn Profile](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
 - ⚡ Fun fact **I am passionate about Football and also active in Physical Fitness.**
 
