@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/6f87276238fc4d6742e582f1084db307e09aec5e9f223bea9935204fdfe3e5d7/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313735303139323538303737373332363336302f333434333938313339313833393146333344354235413638314344314532463830333530353643322f)
 <h1 align="center">Hi, I'm Jiten Rai</h1>
 <h3 align="center">An Enthusiast in Python Programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🌱 I’m currently learning **Python Machine Learning**
 
