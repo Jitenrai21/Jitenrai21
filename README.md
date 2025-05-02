@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **raijiten96@gmail.com**
+- 📫 How to reach me **info@jitenrai.com.np**
 
 - 📄 Know about my experiences [My LinkedIn Profile](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
