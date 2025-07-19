@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966)
 <h1 align="center">Hi, Annyeoung! I'm Jiten Rai.</h1>
 <h3 align="center">An Enthusiast in the world of Machine Learning and Data Science.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/dc289f329fd131c154c7a7ec7fce4faa/ab07e98decc65147-62/s540x810/d63d198e76acba3164f7412b02c9dee21663f835.gif">
 
 - 🌱 I’m currently learning **Machine Learning (Into the World of AI)**
 
