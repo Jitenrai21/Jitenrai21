@@ -1,5 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966)
-<h1 align="center">Hi, Annyeoung! I'm Jiten Rai.</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Annyeoung!+👋;+It's+Jiten+Rai+here!!😁&color=FAEBD7" />
+</h1>
 <h3 align="center">An Enthusiast in the world of Machine Learning and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/df/22/06df2287db963c5230f9b2d86e7728ba.gif">
 
