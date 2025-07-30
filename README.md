@@ -27,13 +27,13 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jitenrai21&theme=gruvbox&no-frame=true&column=7" alt="jitenrai21 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jitenrai21&theme=blueberry-duo&no-frame=true&column=7" alt="jitenrai21 trophies" />
 </p>
 
 ---
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jitenrai21&count_private=true&theme=onedark&border_radius=10" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jitenrai21&count_private=true&theme=blueberry-duo&border_radius=10" alt="streak stats"/>
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitenrai21&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitenrai21&show_icons=true&theme=blueberry-duo&hide_border=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitenrai21&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitenrai21&layout=compact&theme=blueberry-duo&hide_border=true" alt="Top Languages"/>
 </p>
