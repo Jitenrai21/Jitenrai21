@@ -5,7 +5,7 @@
 <h3 align="center">An Enthusiast in the world of Machine Learning and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif">
 
-- 🌱 I’m currently learning **Machine Learning (Into the World of AI)**
+- 🌱 I’m currently learning **Practising Computer Vision**
 
 - 💬 Ask me about **Machine Learning**
 
