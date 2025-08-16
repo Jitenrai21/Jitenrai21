@@ -1,13 +1,13 @@
 ![MasterHead](https://giffiles.alphacoders.com/215/215993.gif)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Annyeoung!+👋;+It's+Jiten+Rai+here!!😁&color=FAEBD7" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+Annyeoung!+👋;+It's+Jiten+Rai+here!!😁&color=FAEBD7" />
 </h1>
 <h3 align="center">An Enthusiast in the world of Machine Learning and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif">
 
 - 🌱 I’m currently learning **Practising Computer Vision**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Artificial Intelligence / Machine Learning**
 
 - 📫 How to reach me **info@jitenrai.com.np**
 
