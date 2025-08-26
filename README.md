@@ -25,13 +25,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jitenrai21&theme=blueberry-duo&no-frame=true&column=7" alt="jitenrai21 trophies" />
-</p>
-
----
-
 <p align="center">  
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jitenrai21&count_private=true&theme=blueberry-duo&border_radius=10" alt="streak stats"/>
 </p>
