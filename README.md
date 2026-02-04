@@ -1,4 +1,4 @@
-![MasterHead](https://giffiles.alphacoders.com/215/215993.gif)
+![MasterHead](./media/tora.gif)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+Annyeoung!+👋;+It's+Jiten+Rai+here!!😁&color=FAEBD7" />
 </h1>
