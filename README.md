@@ -5,15 +5,15 @@
 <h3 align="center">An Enthusiast in the world of Machine Learning and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif">
 
-- 🌱 Checkout my portfolio on [jitenrai.com.np](https://jitenrai.com.np/)
+-  Checkout my portfolio on [jitenrai.com.np](https://jitenrai.com.np/)
 
-- 💬 Ask me about **Artificial Intelligence / Machine Learning**
+-  Ask me about **Artificial Intelligence / Machine Learning**
 
-- 📫 How to reach me **info@jitenrai.com.np**
+-  How to reach me **info@jitenrai.com.np**
 
-- 📄 Know about my experiences [My LinkedIn Profile](https://www.linkedin.com/in/jiten-rai-42b540264/)
+-  Know about my experiences [My LinkedIn Profile](https://www.linkedin.com/in/jiten-rai-42b540264/)
 
-- ⚡ Fun fact **I am passionate about Football and also active in Physical Fitness.**
+-  Fun fact **I am passionate about Football and also active in Physical Fitness.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
